@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+out/
+data/
+*.tif
+*.tiff
+*.laz
+*.las
+site.json
+lidar-to-unreal.json
+.DS_Store

@@ -1,0 +1,11 @@
+lidar-to-unreal
+Copyright 2026 Sankofa Digital OÜ (Agoro Games)
+
+This product includes software developed by Daniel Duroshola for Agoro Camp.
+
+The code is licensed under the Apache License, Version 2.0. It contains no third-party data.
+Data you process with it keeps its own licence and attribution duties, notably:
+  - Direção-Geral do Território (Portugal) LiDAR, DTM/DSM and orthophotos: CC BY 4.0.
+  - Copernicus DEM GLO-30: (c) DLR e.V. 2010-2014 and (c) Airbus Defence and Space GmbH 2014-2018,
+    provided under COPERNICUS by the European Union and ESA.
+  - OpenStreetMap: (c) OpenStreetMap contributors, ODbL 1.0.

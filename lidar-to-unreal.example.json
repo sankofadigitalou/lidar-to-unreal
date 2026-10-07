@@ -1,0 +1,14 @@
+{
+ "_comment": "Copy to lidar-to-unreal.json next to your .uproject. Paths are absolute or relative to the project folder.",
+ "data_dir": "lidar-to-unreal-data",
+ "content_dir": "/Game/LidarToUnreal",
+ "trees": {
+  "steps": ["spawn", "snap", "check", "save"],
+  "species": [
+   {"name": "Pine", "mesh": "/Game/Trees/SM_Pine", "min_height_m": 8, "max_crown_ratio": 0.35},
+   {"name": "Broadleaf", "mesh": "/Game/Trees/SM_Broadleaf"}
+  ],
+  "wind_cm": 5000
+ },
+ "horizon": {"steps": ["material", "near", "far", "labels", "save"], "rock_from_m": 1300, "rock_full_m": 1900}
+}

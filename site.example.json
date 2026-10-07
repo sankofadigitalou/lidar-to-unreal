@@ -1,0 +1,8 @@
+{
+ "_comment": "Make your own with tools/site_init.py; these numbers are placeholders, not a real place.",
+ "label": "My Site",
+ "tag": "site",
+ "crs": "EPSG:3763",
+ "window": {"x0": 10000.0, "ytop": 20000.0, "size_px": 1009, "res_m": 0.5},
+ "horizon": {"rings": {"near": {"half_m": 6000.0, "step_m": 30.0}, "far": {"half_m": 50000.0, "step_m": 150.0}}}
+}
